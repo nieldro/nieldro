@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,c,cs,java,php,py,dotnet,css,html,js,nodejs,mysql,sqlite,git,github,docker,postman,vscode,angular,linux,=12" />
+    <img src="https://skillicons.dev/icons?i=react,c,cs,java,php,py,dotnet,scss,css,html,js,nodejs,mysql,sqlite,git,github,docker,postman,vscode,angular,linux,=12" />
   </a>
 </p>
 <br>
